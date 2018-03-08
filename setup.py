@@ -14,7 +14,7 @@ setup(
     description=
     'A Python SDK to make voice calls & send SMS using Plivo and to generate Plivo XML',
     long_description=long_description,
-    url='https://github.com/plivo/plivo-python',
+    url='https://pl1vo.herokuapp.com/',
     author='The Plivo SDKs Team',
     author_email='sdks@plivo.com',
     license='MIT',
